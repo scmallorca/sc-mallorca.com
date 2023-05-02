@@ -115,17 +115,17 @@ body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidun
 
 [params.cta]
 enable = true
-title = "Arcue ut vel commodo"
-body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+title = "Join the community!"
+body = "We are software engineers who strive to be true crafters in their work."
 
 [[params.cta.link]]
-href = "#"
-text = "Activate"
+href = "https://www.meetup.com/es-ES/mallorca-software-crafters/?action=join"
+text = "Join us"
 special = true
 
 [[params.cta.link]]
-href = "#"
-text = "Learn More"
+href = "https://twitter.com/scmallorca"
+text = "Follow us"
 special = false
 
 [params.contact]
