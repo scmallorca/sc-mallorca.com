@@ -139,10 +139,7 @@ subject = "New Submission!"
 formspree_form_id = "example_invalid"
 
 [params.social]
-twitter = ""
-facebook = ""
-instagram = ""
-dribble = ""
+twitter = "scmallorca"
 
 # language specific options
 
