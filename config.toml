@@ -7,7 +7,9 @@ theme = "spectral"
 
 [params]
 fancyTitle = "Mallorca Software Crafters" # title for frontpage, may include image
-copyright = "Pere Picó"
+copyright = """
+<a href="https://github.com/ppicom">Pere Picó</a>
+"""
 description = 'As aspiring Software Crafters </br> we are raising the bar of professional software development</br>by practicing it and helping others learn the craft'
 startbuttonText = "Join us"
 startbuttonLink = "https://www.meetup.com/es-ES/mallorca-software-crafters/"
