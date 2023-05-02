@@ -58,7 +58,7 @@ style = "3"
 label = "Dolor"
 
 [params.two]
-enable = true
+enable = false
 
 [[params.two.section]]
 img = "img/pic01.jpg"
@@ -76,7 +76,7 @@ title = 'Magna primis lobortis<br />sed ullamcorper'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [params.three]
-enable = true
+enable = false
 title = 'Accumsan mus tortor nunc aliquet'
 body = '''
 Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
@@ -129,7 +129,7 @@ text = "Learn More"
 special = false
 
 [params.contact]
-enable = true
+enable = false
 title = "Contact"
 body = "Leave us a message."
 phone = "+49 (0) 030 000 000"
